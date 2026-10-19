@@ -2,7 +2,9 @@
 name: "Contribuição do workshop"
 about: "Registre sua contribuição individual para o guia colaborativo."
 title: "[Contribuição] "
+labels: ["exercicio"]
 ---
+  
 
 ## O que vou adicionar?
 
