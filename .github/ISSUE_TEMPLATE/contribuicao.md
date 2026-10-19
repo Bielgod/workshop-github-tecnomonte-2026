@@ -1,4 +1,3 @@
-
 ---
 name: "Contribuição do workshop"
 about: "Registre sua contribuição individual para o guia colaborativo."
